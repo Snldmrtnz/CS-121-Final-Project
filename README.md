@@ -2,7 +2,7 @@
 
 #Password generator and manager
 
-#Icon Print Art
+# Icon Print Art
   print("""
 
               ,---------------------------,
@@ -27,7 +27,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 """)
 
-#Login
+# Login
   1. Set the password manually
   // this is used for the login using password
   
@@ -39,7 +39,7 @@
   // that is directed to line 37 using if statement
   if password_usr == password:
   
-#Strings
+# Strings
   // this consists all the possible characters for the password generator and manager
 
   1. For the password manager we manually set our own password
@@ -56,7 +56,7 @@
   upper = "ABCDEFGHIJKLMNOPQQRSTUVWXYZ"
   symbols = "~!@#$%^&*()"
   
-#Welcome Screen
+# Welcome Screen
   
   1. Welcome screen which let you choose an option
   
@@ -75,7 +75,7 @@
   
   
   
-#CS 121 Final Project
+# CS 121 Final Project
  Sean Iliad L. Martinez
  20-07129  
   
