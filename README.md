@@ -2,7 +2,7 @@
 
 #Password generator and manager
 
-# Icon Print Art
+#Icon Print Art
   print("""
 
               ,---------------------------,
